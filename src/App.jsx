@@ -1,7 +1,9 @@
+import Heade from "./components/Heade";
+
 function App() {
   return (
     <>
-      <h1>Contact App</h1>
+      <Heade />
     </>
   );
 }
